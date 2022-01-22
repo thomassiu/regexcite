@@ -24,7 +24,6 @@ You can install the development version of regexcite from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
 devtools::install_github("thomassiu/regexcite")
 ```
 
